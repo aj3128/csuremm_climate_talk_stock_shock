@@ -5,7 +5,7 @@
 
 **Abstract**
 
-**Significant shifts have occurred in U.S. domestic climate policy since the ratification of the
+Significant shifts have occurred in U.S. domestic climate policy since the ratification of the
 2015 Paris Climate Accords. The efficient market hypothesis expresses that market prices
 are driven by investor response to major shifts in news events and stories. Despite the
 magnitude of these climate policy shifts, there is a lack of research on investor reactions to
@@ -22,4 +22,6 @@ fund metrics. Our findings indicate that consumer discretionary, consumer staple
 information technology funds are most effectively predicted using climate policy news
 sentiment. Through this study, we aim to illuminate the relationship between climate
 policy news sentiment and shifts in investor behavior.
-**
+
+
+
